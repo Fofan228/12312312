@@ -1,0 +1,13 @@
+D:\Programm proects\Programm\exam\exam\bin\Debug\netcoreapp3.1\exam.exe
+D:\Programm proects\Programm\exam\exam\bin\Debug\netcoreapp3.1\exam.deps.json
+D:\Programm proects\Programm\exam\exam\bin\Debug\netcoreapp3.1\exam.runtimeconfig.json
+D:\Programm proects\Programm\exam\exam\bin\Debug\netcoreapp3.1\exam.runtimeconfig.dev.json
+D:\Programm proects\Programm\exam\exam\bin\Debug\netcoreapp3.1\exam.dll
+D:\Programm proects\Programm\exam\exam\bin\Debug\netcoreapp3.1\exam.pdb
+D:\Programm proects\Programm\exam\exam\obj\Debug\netcoreapp3.1\exam.csprojAssemblyReference.cache
+D:\Programm proects\Programm\exam\exam\obj\Debug\netcoreapp3.1\exam.AssemblyInfoInputs.cache
+D:\Programm proects\Programm\exam\exam\obj\Debug\netcoreapp3.1\exam.AssemblyInfo.cs
+D:\Programm proects\Programm\exam\exam\obj\Debug\netcoreapp3.1\exam.csproj.CoreCompileInputs.cache
+D:\Programm proects\Programm\exam\exam\obj\Debug\netcoreapp3.1\exam.dll
+D:\Programm proects\Programm\exam\exam\obj\Debug\netcoreapp3.1\exam.pdb
+D:\Programm proects\Programm\exam\exam\obj\Debug\netcoreapp3.1\exam.genruntimeconfig.cache

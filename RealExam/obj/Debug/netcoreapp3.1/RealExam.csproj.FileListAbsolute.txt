@@ -1,0 +1,13 @@
+D:\Programm proects\RealExam\bin\Debug\netcoreapp3.1\RealExam.exe
+D:\Programm proects\RealExam\bin\Debug\netcoreapp3.1\RealExam.deps.json
+D:\Programm proects\RealExam\bin\Debug\netcoreapp3.1\RealExam.runtimeconfig.json
+D:\Programm proects\RealExam\bin\Debug\netcoreapp3.1\RealExam.runtimeconfig.dev.json
+D:\Programm proects\RealExam\bin\Debug\netcoreapp3.1\RealExam.dll
+D:\Programm proects\RealExam\bin\Debug\netcoreapp3.1\RealExam.pdb
+D:\Programm proects\RealExam\obj\Debug\netcoreapp3.1\RealExam.csprojAssemblyReference.cache
+D:\Programm proects\RealExam\obj\Debug\netcoreapp3.1\RealExam.AssemblyInfoInputs.cache
+D:\Programm proects\RealExam\obj\Debug\netcoreapp3.1\RealExam.AssemblyInfo.cs
+D:\Programm proects\RealExam\obj\Debug\netcoreapp3.1\RealExam.csproj.CoreCompileInputs.cache
+D:\Programm proects\RealExam\obj\Debug\netcoreapp3.1\RealExam.dll
+D:\Programm proects\RealExam\obj\Debug\netcoreapp3.1\RealExam.pdb
+D:\Programm proects\RealExam\obj\Debug\netcoreapp3.1\RealExam.genruntimeconfig.cache

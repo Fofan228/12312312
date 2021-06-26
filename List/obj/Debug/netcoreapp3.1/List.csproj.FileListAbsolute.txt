@@ -1,0 +1,13 @@
+D:\Programm proects\List\bin\Debug\netcoreapp3.1\List.exe
+D:\Programm proects\List\bin\Debug\netcoreapp3.1\List.deps.json
+D:\Programm proects\List\bin\Debug\netcoreapp3.1\List.runtimeconfig.json
+D:\Programm proects\List\bin\Debug\netcoreapp3.1\List.runtimeconfig.dev.json
+D:\Programm proects\List\bin\Debug\netcoreapp3.1\List.dll
+D:\Programm proects\List\bin\Debug\netcoreapp3.1\List.pdb
+D:\Programm proects\List\obj\Debug\netcoreapp3.1\List.csprojAssemblyReference.cache
+D:\Programm proects\List\obj\Debug\netcoreapp3.1\List.AssemblyInfoInputs.cache
+D:\Programm proects\List\obj\Debug\netcoreapp3.1\List.AssemblyInfo.cs
+D:\Programm proects\List\obj\Debug\netcoreapp3.1\List.csproj.CoreCompileInputs.cache
+D:\Programm proects\List\obj\Debug\netcoreapp3.1\List.dll
+D:\Programm proects\List\obj\Debug\netcoreapp3.1\List.pdb
+D:\Programm proects\List\obj\Debug\netcoreapp3.1\List.genruntimeconfig.cache
